@@ -3,6 +3,7 @@
   "LatestDatabaseVersion": 6,
   "MinimumUpdaterVersion": "1.0.0.0",
   "PackageName": "Hospital_6.0.0.0.zip",
+  "PackageUrl": "https://github.com/radiologist-hospital/HospitalUpdates/releases/download/6.0.0.0/Hospital_6.0.0.0.zip"
   "PackageSha256": "",
   "Mandatory": false,
   "ReleaseDate": "2026-08-04",
