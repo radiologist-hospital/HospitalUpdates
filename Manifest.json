@@ -4,7 +4,7 @@
   "MinimumUpdaterVersion": "1.0.0.0",
   "PackageName": "Hospital_6.0.0.0.zip",
   "PackageUrl": "https://github.com/radiologist-hospital/HospitalUpdates/releases/download/6.0.0.0/Hospital_6.0.0.0.zip",
-  "PackageSha256": "C6BBF8DE19E9BC7ED6FDCA21892EBDB474CC97A37DF588C9AAE054E043D9F538",
+  "PackageSha256": "20EB265F21AC900A282588681B0CDC22693F775BD4EE21064AE75AA563F9AD69",
   "Mandatory": false,
   "ReleaseDate": "2026-08-04",
   "Message": "Read from GitHub Successfully."
